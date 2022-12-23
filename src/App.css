@@ -1,0 +1,19 @@
+.shorttxt  {
+    font-size: 14px;
+}
+
+.container__tools, .container__result  {
+    max-width: 500px;
+}
+
+.tool  {
+    min-height: 120px;
+    min-width: 300px;
+    background-color: #f1f7fa;
+    padding: 1rem;
+    border-radius: 5px;
+}
+
+.tool--mini  {
+    min-width: 150px;
+}
